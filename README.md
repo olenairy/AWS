@@ -1,4 +1,4 @@
-# AWS
+# Binomial, Gaussian, Generic distribution, AWS
 
 Binomial distribution class for calculating and visualizing a Binomial distribution.
     
